@@ -6,7 +6,7 @@ function getProductId() {
 async function fetchProducts() {
     try {
         const productId = getProductId();
-        const url = `http://diwserver.vps.webdock.cloud:8765/products/${productId}`;
+        const url = `https://diwserver.vps.webdock.cloud/products/${productId}`;
         const response = await fetch(url);
         const data = await response.json();
         return data;
