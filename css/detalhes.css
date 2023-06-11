@@ -1,0 +1,51 @@
+.title-page-detalhes {
+    font-family: 'Monument Extended', sans-serif !important;
+    color: #ffffff;
+}
+
+.img-detalhes {
+    max-width: 100%;
+    height: 600px;
+}
+
+.preco-produto {
+    color: #b783ee;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif !important;
+    font-weight: 700 !important;
+    font-size: 40px;
+}
+
+.fa-star {
+    font-size: 25px !important;
+    display: inline-block;
+}
+
+.full {
+    color: #b783ee;
+}
+
+.half:after {
+    content: "\f089";
+    color: #b783ee;
+}
+
+.empty {
+    color: lightgray;
+}
+
+.fonte-serrat {
+    font-family: 'Montserrat', sans-serif !important;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px !important;
+    font-weight: 500 !important;
+    color: black;
+}
+
+.categoria-product {
+    color: #11004a;
+    font-family: 'Montserrat', sans-serif !important;
+    font-weight: 400 !important;
+    flex-grow: 1;
+}

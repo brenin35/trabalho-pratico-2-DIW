@@ -1,0 +1,84 @@
+#carouselExampleInterval {
+    padding: 0 !important;
+    margin-top: 30px;
+}
+
+/*Início das setas esquerda e direita*/
+#carouselExampleInterval .carousel-control-prev,
+#carouselExampleInterval .carousel-control-next {
+    background: none;
+    color: #ffffff;
+    font-size: 2.3em;
+    text-shadow: none;
+}
+
+/*Fim das setas esquerda e direitas*/
+
+/* Início da seta esquerda */
+#carouselExampleInterval .carousel-control-prev {
+    left: -160px;
+}
+
+/* Fim da seta esquerda */
+
+/* Início da seta direita */
+#carouselExampleInterval .carousel-control-next {
+    right: -160px;
+}
+
+/* Fim da seta direitas */
+
+/* Início da alteração da posição dos indicadores */
+#carouselExampleInterval .carousel-indicators {
+    bottom: -55px;
+}
+
+ol {
+    list-style: none;
+}
+
+/* Fim da alteração da posição dos indicadores */
+
+/* Início da estilização das imagens */
+#carouselExampleInterval img {
+    object-fit: cover;
+    padding: 0px;
+    margin: 0px;
+}
+
+/* Fim da estilização das imagens */
+
+/*MEDIA QUERIES*/
+/* Início das regras para dispositivos pequenos (tablets, 768px e acima) */
+@media (min-width: 768px) {
+    #carouselExampleInterval {
+        margin-bottom: 0;
+        padding: 0 40px 30px 40px;
+    }
+}
+
+
+/* Início das regras para dispositivos pequenos (tablets, até 768px) */
+@media (max-width: 768px) {
+
+    #carouselExampleInterval .carousel-indicators {
+        bottom: -20px !important;
+    }
+
+    #carouselExampleInterval .carousel-indicators li {
+        display: inline-block;
+        margin: 0px 5px;
+        width: 15px;
+        height: 15px;
+    }
+
+    #carouselExampleInterval .carousel-indicators li.active {
+        margin: 0px 5px;
+        width: 20px;
+        height: 20px;
+    }
+}
+
+.img-banner {
+    object-fit: cover !important;
+}

@@ -1,0 +1,12 @@
+.fa-star {
+    font-size: 15px;
+    display: inline-block;
+}
+
+.full {
+    color: #b783ee;
+}
+
+.empty {
+    color: lightgray;
+}
