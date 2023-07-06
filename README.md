@@ -13,10 +13,10 @@ Você pode acessar a aplicação web finalizada [aqui](https://brenin35.github.i
 ## Instruções de Uso
 
 1. Clone este repositório em sua máquina local usando o comando:
-git clone https://github.com/brenin35/trabalho-pratico-2-DIW.git
+`git clone https://github.com/brenin35/trabalho-pratico-2-DIW.git`
 
 2. Navegue até o diretório do projeto:
-cd trabalho-pratico-2-DIW
+`cd trabalho-pratico-2-DIW`
 
 3. Abra o arquivo `index.html` em seu navegador preferido.
 
@@ -25,10 +25,10 @@ cd trabalho-pratico-2-DIW
 Contribuições são bem-vindas! Se você quiser contribuir para este projeto, siga as etapas abaixo:
 
 1. Faça um fork deste repositório.
-2. Crie uma nova branch com a sua feature: `git checkout -b minha-nova-feature`.
-3. Faça as alterações desejadas e adicione os arquivos modificados: `git add .`.
-4. Faça o commit das suas alterações: `git commit -m 'Adicionando uma nova feature'`.
-5. Envie as alterações para o seu fork: `git push origin minha-nova-feature`.
+2. Crie uma nova branch com a sua feature: `git checkout -b minha-nova-feature`
+3. Faça as alterações desejadas e adicione os arquivos modificados: `git add .`
+4. Faça o commit das suas alterações: `git commit -m 'Adicionando uma nova feature'`
+5. Envie as alterações para o seu fork: `git push origin minha-nova-feature`
 6. Envie um pull request, explicando as alterações propostas.
 
 ## Licença
