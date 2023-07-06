@@ -30,9 +30,3 @@ Contribuições são bem-vindas! Se você quiser contribuir para este projeto, s
 4. Faça o commit das suas alterações: `git commit -m 'Adicionando uma nova feature'`
 5. Envie as alterações para o seu fork: `git push origin minha-nova-feature`
 6. Envie um pull request, explicando as alterações propostas.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
-
