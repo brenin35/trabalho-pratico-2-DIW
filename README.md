@@ -12,10 +12,10 @@ Você pode acessar a aplicação web finalizada [aqui](https://brenin35.github.i
 
 ## Instruções de Uso
 
-1. Clone este repositório em sua máquina local usando o comando:
+1. Clone este repositório em sua máquina local usando o comando:<br>
 `git clone https://github.com/brenin35/trabalho-pratico-2-DIW.git`
 
-2. Navegue até o diretório do projeto:
+2. Navegue até o diretório do projeto:<br>
 `cd trabalho-pratico-2-DIW`
 
 3. Abra o arquivo `index.html` em seu navegador preferido.
